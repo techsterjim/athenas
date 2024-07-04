@@ -1,6 +1,6 @@
 # Athena's Grill - Responsive Bistro Website
 
-Welcome to the official repository of Athena's Grill, a beautifully designed and fully responsive mock restaurant website.
+Welcome to the official repository of Athena's Grill, a beautifully designed and fully responsive mock restaurant website built with React.
 
 ## Features
 

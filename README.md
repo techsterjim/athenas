@@ -13,7 +13,7 @@ Welcome to the official repository of Athena's Grill, a beautifully designed and
 
 ## Demo
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://athenasgrill.netlify.app/).
 
 ## Installation
 

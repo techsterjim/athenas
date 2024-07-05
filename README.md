@@ -61,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or suggestions, feel free to contact me at [your-email@example.com](mailto:hey@codewithjames.dev).
+For any inquiries or suggestions, feel free to contact me at [hey@codewithjames.dev].
